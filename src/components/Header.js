@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <header>
-            <h1>Your Perfect Puppy Picture Page!!</h1>
+            <h1>Your Perfect Puppy Picture Page!! </h1>
         </header>
     )
 }
